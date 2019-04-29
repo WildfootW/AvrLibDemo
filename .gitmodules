@@ -1,0 +1,3 @@
+[submodule "AvrLib"]
+	path = AvrLib
+	url = https://github.com/jypma/AvrLib.git
