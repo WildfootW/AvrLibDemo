@@ -18,7 +18,7 @@ LFUSE = 0xFF
 HFUSE = 0xDE
 EFUSE = 0x05
 
-AVRLIB=../../../AvrLib
+AVRLIB=../../AvrLib
 INCLUDES=-I$(AVRLIB)/inc -Iinc
 
 SOURCEDIR=src/avr
